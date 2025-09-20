@@ -1,1 +1,1 @@
-# ai_diary_webApp
+# AI_Diary
